@@ -1,1 +1,1 @@
-Test::テストですよ。
+Hi Crewmates! \nThis is a test, you know.\nYup. Nothing!::やっほー！クルーメイトのみんな！\nこれはテストだよ。\nうん。 何もない！
