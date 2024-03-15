@@ -1,1 +1,7 @@
-Hi Crewmates! \nThis is a test, you know.\nYup. Nothing!::やっほー！クルーメイトのみんな！\nこれはテストだよ。\nうん。 何もない！
+Hi Crewmates!
+This is a test, you know.
+Yup. Nothing!
+::
+やっほー！クルーメイトのみんな！
+これはテストだよ。
+うん。 何もない！
